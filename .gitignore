@@ -1,0 +1,5 @@
+logging_directory/
+working_directory/
+data_directory/
+.idea/
+__pycache__/
